@@ -1,0 +1,3 @@
+npm --save-dev i gulp
+
+npm i -g gulp-cli

@@ -1,0 +1,10 @@
+@import "./base/variables.scss";
+
+body {
+  color: $bg;
+}
+
+h1 {
+  color: $primary;
+  transition: all 3s linear;
+}

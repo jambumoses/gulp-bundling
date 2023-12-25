@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.scss","base/variables.scss"],"names":[],"mappings":"AAEA,KACE,MCHG,KDML,GACE,MCNQ,IDOR","file":"style.min.css","sourcesContent":["@import \"./base/variables.scss\";\r\n\r\nbody {\r\n  color: $bg;\r\n}\r\n\r\nh1 {\r\n  color: $primary;\r\n  transition: all 3s linear;\r\n}\r\n","$bg: #ccc;\r\n$primary: #f00;\r\n"]}
